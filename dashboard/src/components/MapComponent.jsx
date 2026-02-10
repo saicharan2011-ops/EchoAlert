@@ -8,7 +8,7 @@ import crashIcon from '../../../image.png';
 import screamIcon from '../../../scream.png';
 import gunIcon from '../../../gun.png';
 
-const API_KEY = 'XYZ';
+const API_KEY = 'XYZ1';
 const MAP_ID = 'DEMO_MAP_ID';
 
 const incidentIcons = {
