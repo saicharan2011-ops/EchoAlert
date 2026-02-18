@@ -94,6 +94,3 @@ To deploy the audio detector on a Raspberry Pi:
     ```
 4.  Scan the QR code with your phone (Expo Go app).
 
-## 📄 License
-
-This project is licensed under the MIT License.
